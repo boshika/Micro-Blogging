@@ -19,8 +19,7 @@
 *.tar
 *.zip
 *.pyc
-*.py
-
+*/flask/.py
 # Logs and databases #
 ######################
 *.log
