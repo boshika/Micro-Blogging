@@ -16,3 +16,5 @@
 ###pip install guess_language
 ###pip install flipflop
 ###pip install coverage
+
+##To run the app, start the server by typing python run.py from the project folder. App runs on http://localhost:5000
