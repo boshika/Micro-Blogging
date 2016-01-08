@@ -3,4 +3,7 @@ from app import app
 @app.route('/')
 @app.route('/index')
 def index():
-  return 'Creating a Micrblog!'
+  user = { 'nickename' : 'Boshika'}
+  return render_template('index.html',
+                           title='Home',
+                           user=user)
