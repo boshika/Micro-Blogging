@@ -1,4 +1,5 @@
 #Micro-Blogging Platform
+###created using Python's Flask Framework
 ##To create a new virtual environment pip install virtualenv and virtualenv flask
 
 ##To install packages
