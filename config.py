@@ -1,2 +1,2 @@
-WTF_CSRF_ENABLED = 'TRUE'  #for cross-site forgery prevention
-SECERT_KEY = 'you-will-never-guess'
+WTF_CSRF_ENABLED = True  
+SECRET_KEY = 'you-will-never-guess'
