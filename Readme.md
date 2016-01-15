@@ -1,10 +1,13 @@
-#Micro-Blogging Platform
-###created using Python's Flask Framework
+Micro-Blogging Platform
+=======================
+
+Created using Python's Flask Framework
+
 ##To create a new virtual environment pip install virtualenv and virtualenv flask
 
 ##To install packages
-###For Windows
-###from the project directory cd flask\Scripts
+  For Windows
+From the project directory cd flask\Scripts
 ###pip install flask
 ###pip install flask-login
 ###pip install flask-openid
