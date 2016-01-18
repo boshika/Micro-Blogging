@@ -1,7 +1,7 @@
 Micro-Blogging Platform
 =======================
 
-Created using Python's Flask Framework
+**Created using Python's Flask Framework**
 
 ##To create a new virtual environment pip install virtualenv and virtualenv flask
 
